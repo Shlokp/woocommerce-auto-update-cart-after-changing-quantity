@@ -14,3 +14,4 @@ function cart_update_qty_script() {
 <?php
 endif;
 }
+
